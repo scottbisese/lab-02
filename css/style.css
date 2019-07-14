@@ -1,0 +1,26 @@
+p.important {
+    background: repeating-radial-gradient(white, gray);
+    border-style: solid;
+    border-width: 5px;
+    border-color: purple;
+    fill: blue;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    color: white;
+  }
+h1.tag {
+    background: repeating-linear-gradient(green, blue,red);
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+}
+div {
+    fill:red;
+}
+body {
+    background-image: url("https://previews.123rf.com/images/studiograndouest/studiograndouest1606/studiograndouest160600087/59119832-sexy-beautiful-middle-aged-woman-enjoying-pointing-in-the-foreground-both-fingers-like-fun-guns-for-.jpg");
+    background-color: #cccccc;
+    
+}
